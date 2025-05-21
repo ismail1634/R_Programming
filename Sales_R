@@ -1,0 +1,5 @@
+#our first calculations
+quarter_1_sales <- 235.35
+quarter_2_sales <- 345.45
+midyear_sales <- quarter_1_sales+quarter_2_sales
+midyear_sales
